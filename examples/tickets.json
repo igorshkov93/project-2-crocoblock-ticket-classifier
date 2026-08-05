@@ -1,0 +1,27 @@
+[
+  {
+    "id": "TCK-1042",
+    "subject": "JetBooking allowing double bookings on the same dates",
+    "body": "URGENT. Since yesterday JetBooking is letting two customers book the exact same apartment for overlapping dates. We already have two conflicting reservations for next weekend and guests are angry. This is costing us money. We need a fix immediately, availability check is clearly not working."
+  },
+  {
+    "id": "TCK-1043",
+    "subject": "How to show related posts in a JetEngine Listing Grid",
+    "body": "Hello, could you point me to how I can display related posts (same taxonomy term) inside a JetEngine Listing Grid on the single post template? I set up the listing but I'm not sure how to feed it the related query. Thanks in advance!"
+  },
+  {
+    "id": "TCK-1044",
+    "subject": "Add pagination that keeps AJAX filters applied",
+    "body": "Hi team, love the plugins. One thing that would really help: when I combine JetSmartFilters with a JetEngine Listing Grid, moving to page 2 sometimes resets the active filters. It would be amazing if AJAX pagination always preserved the currently applied filters. Is that something you could add?"
+  },
+  {
+    "id": "TCK-1045",
+    "subject": "JetFormBuilder calculated field shows wrong total intermittently",
+    "body": "The calculated field in my JetFormBuilder order form usually works, but about 1 in 5 submissions the total is off by the price of one item. I can reproduce it when I change quantity quickly. There's a workaround (reload the page) but it's confusing customers. Not blocking checkout completely, but annoying."
+  },
+  {
+    "id": "TCK-1046",
+    "subject": "Where do I set the map API key for JetElements?",
+    "body": "Quick question — I added a Google Map widget with JetElements and it just shows a grey box saying the API key is missing. Where in the settings do I paste the Google Maps API key? Sorry if this is obvious, I'm new to the plugin."
+  }
+]
